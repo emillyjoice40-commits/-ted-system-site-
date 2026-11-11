@@ -19,6 +19,10 @@ export const empresa = {
     {
       titulo: "Inovação responsável",
       descricao: "Adoção de novas tecnologias com foco em segurança, sustentabilidade e resultados reais."
+    },
+    {
+      titulo: "Agilidade pragmática",
+      descricao: "Foco na entrega contínua de valor com adaptabilidade e velocidade, sem comprometer a estabilidade do produto nem gerar débitos técnicos desnecessários."
     }
   ],
   publicoAlvo:
@@ -55,6 +59,13 @@ export const empresa = {
       foto: "/images/amy.jpg",
       alt: "Foto de Amy Farrah Fowler",
       descricao: "Responsável por estruturar e proteger os bancos de dados dos clientes."
-    }
+    },
+  {
+  nome: "Emilly Joice",
+  cargo: "Especialista em Bancos de Dados",
+  foto: "/images/emilly.jpg",
+  alt: "Foto de Emilly Joice",
+  descricao: "Responsável por estruturar e proteger os bancos de dados dos clientes."
+}
   ]
 };
